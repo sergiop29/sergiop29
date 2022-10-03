@@ -143,6 +143,6 @@ Skills & Activities: `Management Consulting`, `Business Viability Research`, `Ta
 <h1 align="center">
 
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/sergiop29/sergiop29/blob/output/github-contribution-grid-snake.svg)
  
 </h1>
