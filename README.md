@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Studying Statistics at the University of Brasilia.
 - 💼 &nbsp; Working as a Data Analytics Intern in **Grupo Voga|XP** and senior member in **Liga de Mercado Financeiro da UnB** (University of Brasilia finance study group).
 - 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Finance** and more **Programming** on my spare time.<br><br>
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📊 Data Science & Data Analysis
   - 📚 Machine Learning
   - 📈 Predictive Modeling
