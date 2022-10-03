@@ -20,7 +20,16 @@
 
 -----
 
-### Work Experience
+## Work Experience
+<h3 align="center">
+
+
+:zap: - Currently Working at <br>
+:crescent_moon: - Already Worked at <br>
+ 
+</h3>
+
+  <br>
 
 <details>
   <summary>:zap: Grupo Voga|XP</summary>
@@ -123,17 +132,17 @@ Skills & Activities: `Management Consulting`, `Business Viability Research`, `Ta
 - 🔧 &nbsp; Excel | Power BI | Google Data Studio | Visual Studio Code
 - 🌐 &nbsp; Portuguese | English
 
-<p align="center">
-<p>
+<h3 align="center">
+<h3>
 &nbsp; <a href="https://www.instagram.com/sergio_pradera/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/sérgio-pradera-jorge-da-cunha-859b42185/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:sergiopradera29@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
-</p>
+</h3>
 
-<h2 align="center">
+<h1 align="center">
 
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</h2>
+</h1>
