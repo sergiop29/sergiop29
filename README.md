@@ -1,7 +1,5 @@
-## Hi there! ! I'm Sergio Pradera. 👋
-<p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
+<h1 align=center>  Hi there! I'm Sergio Pradera👋 </h1>
+<img align=right alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br>
 
