@@ -30,9 +30,9 @@
   <br>
 
 <details>
-  <summary>:zap: Grupo Voga|XP</summary>
+  <summary>:zap: Grupo Voga|BTG</summary>
 
-[<img align="left" height="94px" width="94px" alt="Voga" src="https://secureservercdn.net/198.71.233.183/o6k.c64.myftpupload.com/wp-content/uploads/2022/05/VOGA_Logo.svg?time=1664819194"/>](https://voga.com.br)
+[<img align="left" height="94px" width="94px" alt="Voga" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGwCYvti2ReZw/company-logo_200_200/0/1644957675039?e=1676505600&v=beta&t=Qm0FqgNduVc3u-8xKOwRzekeRxKCtPEQlAEd34Cwdow"/>](https://voga.com.br)
 
 **Data Analytics** \
 [**Grupo Voga|BTG**](https://voga.com.br) • Intern \
@@ -49,7 +49,7 @@ Skills & Activities: `Predictive Sales Modeling`, `Backtest & Stress test`, `Bus
 <details>
   <summary>:crescent_moon: Conquest Group</summary>
 
-[<img align="left" height="42px" width="130px" alt="Conquest" src="https://conquestgroup.com.br/wp-content/uploads/2019/06/conquest-logo.png"/>](https://conquestgroup.com.br)
+[<img align="left" height="94px" width="94px" alt="Conquest" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHycxBaEn7hqg/company-logo_100_100/0/1554312284724?e=1676505600&v=beta&t=91bVAboGaBSsOTU0q16z2ttvNiPKfHRmd24bO-8C9qM"/>](https://conquestgroup.com.br)
 
 **Investments - Middle Office** \
 [**Conquest Group**](https://conquestgroup.com.br) • Trainee \
@@ -58,7 +58,7 @@ Skills & Activities: `Equity Research`, `Valuation`, `Backtest & Stress test`, `
 <br/>
 <br/>
 
-  [<img align="left" height="42px" width="130px" alt="Conquest" src="https://conquestgroup.com.br/wp-content/uploads/2019/06/conquest-logo.png"/>](https://conquestgroup.com.br)
+  [<img align="left" height="94px" width="94px" alt="Conquest" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHycxBaEn7hqg/company-logo_100_100/0/1554312284724?e=1676505600&v=beta&t=91bVAboGaBSsOTU0q16z2ttvNiPKfHRmd24bO-8C9qM"/>](https://conquestgroup.com.br)
 
 **Investments - Back Office** \
 [**Conquest Group**](https://conquestgroup.com.br) • Intern \
@@ -92,7 +92,7 @@ Skills & Activities: `Project Management`, `Asset Allocation`, `Equity Research`
 <details>
   <summary>:crescent_moon: Ábaco Consultoria Contábil Jr</summary>
 
-[<img align="left" height="45px" width="120px" alt="Abaco" src="https://static.wixstatic.com/media/3431ac_00ba962991034fcd885005597ea85c30~mv2.png/v1/fill/w_119,h_27,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Black%26Blue%20(2).png"/>](https://www.abacoconsultoria.com.br)
+[<img align="left" height="94px" width="94px" alt="Abaco" src="https://media-exp1.licdn.com/dms/image/C4D0BAQErsyKTBI_pow/company-logo_100_100/0/1649874352806?e=1676505600&v=beta&t=oaZJeipewA5VYavdg01SJ50Ne3THZXaMzyH1eRqT3rc"/>](https://www.abacoconsultoria.com.br)
 
 **President** \
 [**Ábaco Consultoria**](https://www.abacoconsultoria.com.br) • Volunteer \
