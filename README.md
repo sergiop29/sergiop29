@@ -6,7 +6,7 @@
 👨🏻‍💻 **About me:**
 - 📌 I’m currently researching about **Data Science** and **Quant Finance**.
 - 🎓 &nbsp; Studying Statistics at the University of Brasilia.
-- 💼 &nbsp; Working as a Data Analytics Intern in **Grupo Voga|XP** and senior member in **Liga de Mercado Financeiro da UnB** (University of Brasilia finance study group).
+- 💼 &nbsp; Working as a Data Analytics Intern in **Grupo Voga|BTG** and senior member in **Liga de Mercado Financeiro da UnB** (University of Brasilia finance study group).
 - 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Finance** and **Machine Learning** on my spare time.<br><br>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📊 Data Science & Data Analysis
@@ -35,7 +35,7 @@
 [<img align="left" height="94px" width="94px" alt="Voga" src="https://secureservercdn.net/198.71.233.183/o6k.c64.myftpupload.com/wp-content/uploads/2022/05/VOGA_Logo.svg?time=1664819194"/>](https://voga.com.br)
 
 **Data Analytics** \
-[**Grupo Voga|XP**](https://voga.com.br) • Intern \
+[**Grupo Voga|BTG**](https://voga.com.br) • Intern \
 Languages & Technologies: `Python`, `SQL`, `Power BI`, `Git`, `Excel`, `VBA`, `Google Data Studio` \
 Skills & Activities: `Predictive Sales Modeling`, `Backtest & Stress test`, `Business Intelligence`, `Automation`, `Data Base`, `Web Scraping`, `IT Support` \
 <br/>
