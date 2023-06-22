@@ -22,7 +22,7 @@
 <h3 align="center">
 
 
-☀️: - Currently Working at <br>
+☀️ - Currently Working at <br>
 :crescent_moon: - Already Worked at <br>
  
 </h3>
