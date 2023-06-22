@@ -115,10 +115,12 @@ Skills & Activities: `Management Consulting`, `Business Viability Research`, `Ta
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> 
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
 </div>
 
 -----
@@ -126,8 +128,8 @@ Skills & Activities: `Management Consulting`, `Business Viability Research`, `Ta
 <h1>🛠 Tech Stack</h1>
 
 - 💻 &nbsp; Python | R | SQL | Java 
-- ⚙ &nbsp; Jupyter Notebook | RStudio | Postgres | DynamoDB | AWS | Git | Linux
-- 🔧 &nbsp; Excel | Power BI | Google Data Studio | Visual Studio Code
+- ⚙ &nbsp; Dash-Plotly | Flask | Docker | Postgres | DynamoDB | AWS | Git | Linux
+- 🔧 &nbsp; Excel (VBA) | Power BI | Google Data Studio | Visual Studio Code | Jupyter Notebook | RStudio/Posit
 - 🌐 &nbsp; Portuguese | English
 
 <h3 align="center">
