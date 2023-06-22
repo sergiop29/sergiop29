@@ -4,9 +4,9 @@
 <br>
 
 👨🏻‍💻 **About me:**
-- 📌 I’m currently researching about **Data Science** and **Quant Finance**.
+- 📌 I'm focused on researching about **Data Science** and **Quant Finance**.
 - 🎓 &nbsp; Studying Statistics at the University of Brasilia.
-- 💼 &nbsp; Working as a Data Analytics Intern in **Grupo Voga|BTG** and senior member in **Liga de Mercado Financeiro da UnB** (University of Brasilia finance study group).
+- 💼 &nbsp; Working as a Data Science Intern in **Grupo Voga|BTG**.
 - 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Finance** and **Machine Learning** on my spare time.<br><br>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📊 Data Science & Data Analysis
@@ -22,7 +22,7 @@
 <h3 align="center">
 
 
-:zap: - Currently Working at <br>
+☀️: - Currently Working at <br>
 :crescent_moon: - Already Worked at <br>
  
 </h3>
@@ -30,14 +30,14 @@
   <br>
 
 <details>
-  <summary>:zap: Grupo Voga|BTG</summary>
+  <summary>☀️ Grupo Voga|BTG</summary>
 
 [<img align="left" height="94px" width="94px" alt="Voga" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGwCYvti2ReZw/company-logo_200_200/0/1644957675039?e=1676505600&v=beta&t=Qm0FqgNduVc3u-8xKOwRzekeRxKCtPEQlAEd34Cwdow"/>](https://voga.com.br)
 
-**Data Analytics** \
+**Data Science** \
 [**Grupo Voga|BTG**](https://voga.com.br) • Intern \
 Languages & Technologies: `Python`, `SQL`, `Power BI`, `Git`, `Excel`, `VBA`, `Google Data Studio` \
-Skills & Activities: `Predictive Sales Modeling`, `Backtest & Stress test`, `Business Intelligence`, `Automation`, `Data Base`, `Web Scraping`, `IT Support` \
+Skills & Activities: `Predictive Sales Modeling`, `Backtest & Stress test`, `Business Intelligence`, `RPA`, `Data Base Managment`, `Web Scraping`, `Data Analytics Platform Development`, `IT Support` \
 <br/>
 <br/>
 
@@ -73,7 +73,7 @@ Skills & Activities: `Business Intelligence`, `Automation`, `Data Base`, `Web Sc
 <br>
 
 <details>
-  <summary>:zap: Liga de Mercado Financeiro da UnB</summary>
+  <summary>:crescent_moon: Liga de Mercado Financeiro da UnB</summary>
 
 [<img align="left" height="94px" width="94px" alt="LMF" src="https://d1fdloi71mui9q.cloudfront.net/uxesnu8TS9aWxiAOjVon_FIGw8r1UYL1IOb5W"/>](https://www.lmfunb.com)
 
@@ -125,8 +125,8 @@ Skills & Activities: `Management Consulting`, `Business Viability Research`, `Ta
 
 <h1>🛠 Tech Stack</h1>
 
-- 💻 &nbsp; Python | R | SQL | R Markdown 
-- ⚙ &nbsp; Jupyter Notebook | RStudio | Git | Linux
+- 💻 &nbsp; Python | R | SQL | Java 
+- ⚙ &nbsp; Jupyter Notebook | RStudio | Postgres | DynamoDB | AWS | Git | Linux
 - 🔧 &nbsp; Excel | Power BI | Google Data Studio | Visual Studio Code
 - 🌐 &nbsp; Portuguese | English
 
