@@ -6,8 +6,8 @@
 👨🏻‍💻 **About me:**
 - 📌 I'm focused on researching about **Data Science** and **Quant Finance**.
 - 🎓 &nbsp; Studying Statistics at the University of Brasilia.
-- 💼 &nbsp; Working as a Data Science Intern in **Grupo Voga|BTG**.
-- 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Finance** and **Machine Learning** on my spare time.<br><br>
+- 💼 &nbsp; Working as Data Analyst at **VOGA Corporate|BTG**.
+- 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Quantitative Finance** and **Machine Learning** on my spare time.<br><br>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📊 Data Science & Data Analysis
   - 📚 Machine Learning
