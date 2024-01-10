@@ -32,12 +32,19 @@
 <details>
   <summary>☀️ Grupo Voga|BTG</summary>
 <br>
-  
+[<img align="left" height="27px" width="95px" alt="Voga" src="https://6v4985.p3cdn1.secureserver.net/wp-content/uploads/2023/03/logo-grupo-VOGA.png?time=1689017320"/>](https://grupovoga.com/)
+
+**Data Analysis** \
+[**Grupo Voga|BTG**](https://voga.com.br) • Data & BI Analyst \
+Languages & Technologies: `Python`, `Airflow`, `Power BI`, `SSIS`, `Databricks`, `Git`, `Excel`, `VBA`, `SQL`, `SQLServer`, `Mongo DB` \
+Skills & Activities: `Leadership & Team Management`, `Financial Data Analysis`, `Business Intelligence`, `RPA`, `Data Base Managment`, `Web Scraping`, `Predictive Sales Modeling`, `Valuation`, `FP&A` 
+
+<br>
 [<img align="left" height="27px" width="95px" alt="Voga" src="https://6v4985.p3cdn1.secureserver.net/wp-content/uploads/2023/03/logo-grupo-VOGA.png?time=1689017320"/>](https://grupovoga.com/)
 
 **Data Science** \
 [**Grupo Voga|BTG**](https://voga.com.br) • Intern \
-Languages & Technologies: `Python`, `Dash-Plotly`, `Power BI`, `Git`, `Excel`, `VBA`, `SQL`, `Postgres`, `DynamoDB` \
+Languages & Technologies: `Python`, `Dash-Plotly`, `Django`, `Power BI`, `Git`, `Excel`, `VBA`, `SQL`, `PostgresSQL`, `DynamoDB`, `Docker` \
 Skills & Activities: `Predictive Sales Modeling`, `Backtest & Stress test`, `Business Intelligence`, `RPA`, `Data Base Managment`, `Web Scraping`, `Data Analytics Platform Development`, `IT Support` \
 <br/>
 <br/>
