@@ -167,7 +167,7 @@ Skills & Activities: `Financial Planning and Analysis`, `Business Viability Rese
 &nbsp; <a href="https://www.instagram.com/sergio_pradera/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/sergiopradera/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:sergiopradera29@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-
+<!--
 </h3>
 
 <h1 align="center">
@@ -176,3 +176,4 @@ Skills & Activities: `Financial Planning and Analysis`, `Business Viability Rese
  ![Snake animation](https://github.com/sergiop29/sergiop29/blob/output/github-contribution-grid-snake.svg)
  
 </h1>
+-->
