@@ -4,14 +4,14 @@
 <br>
 
 👨🏻‍💻 **About me:**
-- 📌 I'm focused on researching about **Data Science** and **Quant Finance**.
-- 🎓 &nbsp; Studying Statistics at the University of Brasilia.
-- 💼 &nbsp; Working as Data Analyst at **VOGA Corporate|BTG**.
-- 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Quantitative Finance** and **Machine Learning** on my spare time.<br><br>
+- 📌 I'm focused on researching about **A.I.** and **Quant Finance**.
+- 🎓 &nbsp; Studying Statistics and Data Science at the University of Brasilia.
+- 💼 &nbsp; Working as Data Scientist at **LGPDNOW**.
+- 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Quantitative Finance** and **Predictive Modeling** on my spare time.<br><br>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
-  - 📊 Data Science & Data Analysis
-  - 📚 Machine Learning
-  - 📈 Predictive Modeling
+  - 📊 Data Science & Data Engineer
+  - 📚 Artificial Intelligence & Machine Learning
+  - 📈 Software Engineering
   - 💵 Finance <br><br>
 - ⚓ &nbsp; Sailing enthusiast.
 - ♠  &nbsp; Questionable poker player on weekends.
@@ -26,13 +26,28 @@
 :crescent_moon: - Already Worked at <br>
  
 </h3>
-
-  <br>
-
-<details>
-  <summary>☀️ Grupo Voga|BTG</summary>
 <br>
-[<img align="left" height="27px" width="95px" alt="Voga" src="https://6v4985.p3cdn1.secureserver.net/wp-content/uploads/2023/03/logo-grupo-VOGA.png?time=1689017320"/>](https://grupovoga.com/)
+  
+<details>
+  <summary>☀️ LGPDNOW</summary>
+<br>
+
+[<img align="left" height="27px" width="110px" alt="LGPD" src="https://www.lgpdnow.com.br/wp-content/uploads/2022/01/lgpdnow-logo-oficial.png"/>](https://lgpdnow.com.br/)
+**Artificial Intelligence** \
+[**LGPDNOW**](https://lgpdnow.com.br) • Data Scientist \
+Languages & Technologies: `Python`, `PyTorch`, `MLFlow`, `ZenML`, `VBA`, `SQL`, `DuckDB`, `DynamoDB`, `Docker` \
+Skills & Activities: `Development and deployment of chatbots`, `Business Intelligence`, `Data collection and preprocessing`, `Data Base managment`, `Deployment and monitoring of AI models`, `Evaluation and validation of already existing models`, `Model selection and development` \
+<br/>
+<br/>
+
+
+</details>
+
+<br>
+<details>
+  <summary>:crescent_moon: Grupo Voga|BTG</summary>
+<br>
+<img align="left" height="27px" width="95px" alt="Voga" src="https://6v4985.p3cdn1.secureserver.net/wp-content/uploads/2023/03/logo-grupo-VOGA.png?time=1689017320"/(https://grupovoga.com/)
 
 **Data Analysis** \
 [**Grupo Voga|BTG**](https://voga.com.br) • Data & BI Analyst \
@@ -40,7 +55,7 @@ Languages & Technologies: `Python`, `Airflow`, `Power BI`, `SSIS`, `Databricks`,
 Skills & Activities: `Leadership & Team Management`, `Financial Data Analysis`, `Business Intelligence`, `RPA`, `Data Base Managment`, `Web Scraping`, `Predictive Sales Modeling`, `Valuation`, `FP&A` 
 
 <br>
-[<img align="left" height="27px" width="95px" alt="Voga" src="https://6v4985.p3cdn1.secureserver.net/wp-content/uploads/2023/03/logo-grupo-VOGA.png?time=1689017320"/>](https://grupovoga.com/)
+<img align="left" height="27px" width="95px" alt="Voga" src="https://6v4985.p3cdn1.secureserver.net/wp-content/uploads/2023/03/logo-grupo-VOGA.png?time=1689017320"/(https://grupovoga.com/)
 
 **Data Science** \
 [**Grupo Voga|BTG**](https://voga.com.br) • Intern \
