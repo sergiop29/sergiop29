@@ -7,12 +7,12 @@
 - 📌 I'm focused on researching about **A.I.** and **Quant Finance**.
 - 🎓 &nbsp; Studying Statistics and Data Science at the University of Brasilia.
 - 💼 &nbsp; Working as Data Scientist at **LGPDNOW**.
-- 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Quantitative Finance** and **Predictive Modeling** on my spare time.<br><br>
+- 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Quantitative Finance**, **Data Pipelines** and **Predictive Modeling** on my spare time.<br><br>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📊 Data Science & Data Engineer
   - 📚 Artificial Intelligence & Machine Learning
   - 📈 Software Engineering
-  - 💵 Finance <br><br>
+  - 💵 Equity Research & Credit Analysis <br><br>
 - ⚓ &nbsp; Sailing enthusiast.
 - ♠  &nbsp; Questionable poker player on weekends.
 
@@ -35,7 +35,7 @@
 [<img align="left" height="27px" width="110px" alt="LGPD" src="https://www.lgpdnow.com.br/wp-content/uploads/2022/01/lgpdnow-logo-oficial.png"/>](https://lgpdnow.com.br/)
 **Artificial Intelligence** \
 [**LGPDNOW**](https://lgpdnow.com.br) • Data Scientist \
-Languages & Technologies: `Python`, `PyTorch`, `MLFlow`, `ZenML`, `VBA`, `SQL`, `DuckDB`, `DynamoDB`, `Docker` \
+Languages & Technologies: `Python`, `H2O Products`, `Figma`, `MLFlow`, `Langchain`, `SQL Server`, `PostgreSQL`, `Streamlit`, `Github Actions`, `Docker` \
 Skills & Activities: `Development and deployment of chatbots`, `Business Intelligence`, `Data collection and preprocessing`, `Data Base managment`, `Deployment and monitoring of AI models`, `Evaluation and validation of already existing models`, `Model selection and development` \
 <br/>
 <br/>
@@ -51,7 +51,7 @@ Skills & Activities: `Development and deployment of chatbots`, `Business Intelli
 
 **Data Analysis** \
 [**Grupo Voga|BTG**](https://voga.com.br) • Data & BI Analyst \
-Languages & Technologies: `Python`, `Airflow`, `Power BI`, `SSIS`, `Databricks`, `Git`, `Excel`, `VBA`, `SQL`, `SQLServer`, `Mongo DB` \
+Languages & Technologies: `Python`, `Airflow`, `Power BI`, `Figma`, `SSIS`, `Databricks`, `Git`, `Excel`, `VBA`, `SQL`, `SQLServer`, `Mongo DB`, `Streamlit`, `Docker` \
 Skills & Activities: `Leadership & Team Management`, `Financial Data Analysis`, `Business Intelligence`, `RPA`, `Data Base Managment`, `Web Scraping`, `Predictive Sales Modeling`, `Valuation`, `FP&A` 
 
 <br>
@@ -59,7 +59,7 @@ Skills & Activities: `Leadership & Team Management`, `Financial Data Analysis`, 
 
 **Data Science** \
 [**Grupo Voga|BTG**](https://voga.com.br) • Intern \
-Languages & Technologies: `Python`, `Dash-Plotly`, `Django`, `Power BI`, `Git`, `Excel`, `VBA`, `SQL`, `PostgresSQL`, `DynamoDB`, `Docker` \
+Languages & Technologies: `Python`, `Dash-Plotly`, `Flask`, `Power BI`, `Figma`, `AWS Glue`, `AWS Sagemaker`, `AWS S3`, `Excel`, `VBA`, `PostgresSQL`, `DynamoDB`, `Docker` \
 Skills & Activities: `Predictive Sales Modeling`, `Backtest & Stress test`, `Business Intelligence`, `RPA`, `Data Base Managment`, `Web Scraping`, `Data Analytics Platform Development`, `IT Support` \
 <br/>
 <br/>
@@ -103,7 +103,7 @@ Skills & Activities: `Business Intelligence`, `RPA`, `Data Base Management`, `We
 
 **President** \
 [**LMF - UnB**](https://www.lmfunb.com) • Volunteer \
-Languages & Technologies: `Excel`, `VBA`, `Trello`, `Google Data Studio` \
+Languages & Technologies: `Excel`, `VBA`, `Python`, `Google Data Studio`, `Power BI`, `Figma` \
 Skills & Activities: `Project Management`, `Asset Allocation`, `Equity Research`, `Valuation`, `Fixed Income`, `Financial Statements Analiysis` \
 <br/>
 <br/>
@@ -121,7 +121,7 @@ Skills & Activities: `Project Management`, `Asset Allocation`, `Equity Research`
 
 **President** \
 [**Ábaco Consultoria**](https://www.abacoconsultoria.com.br) • Volunteer \
-Languages & Technologies: `Excel`, `VBA`, `Power BI`, `R` \
+Languages & Technologies: `Excel`, `VBA`, `Power BI`, `Bizagi`, `R` \
 Skills & Activities: `Financial Planning and Analysis`, `Business Viability Research`, `Tax Planning`, `Valuation`, `Financial Statements Analiysis` \
 <br/>
 <br/>
