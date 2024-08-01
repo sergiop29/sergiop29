@@ -146,7 +146,6 @@ Skills & Activities: `Financial Planning and Analysis`, `Business Viability Rese
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
@@ -157,9 +156,9 @@ Skills & Activities: `Financial Planning and Analysis`, `Business Viability Rese
 
 <h1>🛠 Tech Stack</h1>
 
-- 💻 &nbsp; Python | R | TypeScript | Java 
-- ⚙ &nbsp; PyTorch | Scikit-Learn | ZenML | MLflow | Dash-Plotly | Flask | Docker | Postgres | DynamoDB | AWS | Git | Linux
-- 🔧 &nbsp; Excel (VBA) | Power BI | Google Data Studio | Visual Studio Code | Jupyter Notebook | RStudio/Posit
+- 💻 &nbsp; Python | R | TypeScript 
+- ⚙ &nbsp; PyTorch | Scikit-Learn | ZenML | MLflow | Dash-Plotly | Flask | Docker | MongoDB | Postgres | DynamoDB | Streamlit | Langchain | H2O Products
+- 🔧 &nbsp; Excel (VBA) | Power BI | Google Data Studio (Looker) | Figma | AWS Cloud | Google Cloud | Docker | Kubernets
 - 🌐 &nbsp; Portuguese | English | Hawaiian
 
 <h3 align="center">
