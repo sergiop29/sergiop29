@@ -7,12 +7,12 @@
 - 📌 I'm focused on researching about **A.I.** and **Quant Finance**.
 - 🎓 &nbsp; Studying Statistics and Data Science at the University of Brasilia.
 - 💼 &nbsp; Working as Data Scientist at **LGPDNOW**.
-- 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics/Math** at College, and also about **Quantitative Finance**, **Data Pipelines** and **Predictive Modeling** on my spare time.<br><br>
+- 🎨 &nbsp; I’m currently learning about **Computer Science** and **Statistics** at College, and also about **Quantitative Finance**, and **Software Engeering** on my spare time.<br><br>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📊 Data Science & Data Engineer
   - 📚 Artificial Intelligence & Machine Learning
   - 📈 Software Engineering
-  - 💵 Equity Research & Credit Analysis <br><br>
+  - 💵 Equity Research & Financial Analysis <br><br>
 - ⚓ &nbsp; Sailing enthusiast.
 - ♠  &nbsp; Questionable poker player on weekends.
 
